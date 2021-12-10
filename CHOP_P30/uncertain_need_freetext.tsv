@@ -1,0 +1,48 @@
+pathology_diagnosis	pathology_free_text_diagnosis	cancer_group	broad_histology	molecular_subtype
+Other	aneurismal bone cyst (abc) with col1a1-usp6 fusion	Neoplasm	Neoplasm	aneurismal bone cyst (abc) with col1a1-usp6 fusion
+Other	atypical histiocytic neoplasm	Atypical histiocytic neoplasm	Histiocytic tumor	NA
+Other	atypical lymphoid infiltrate	Neoplasm	Neoplasm	NA
+Other	b-lymphoblastic leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	b-lymphoblastic leukemia
+Other	cns melanoma with pineal region primary tumor	Melanoma	Melanoma	NA
+Other	congenital malignant brain tumor	Malignant brain tumor	Malignant brain tumor	NA
+Other	fibroblastic/myofibroblastic tumor	Fibroblastic/myofibroblastic tumor	Fibroblastic/myofibroblastic tumor	NA
+Other	fibrous dysplasia	Neoplasm	Neoplasm	NA
+Dysplasia/Gliosis	fibrous dysplasia	Neoplasm	Neoplasm	NA
+Other	ganglionemoma	Ganglioneuroma	Neuronal and mixed neuronal-glial tumor	NA
+Other	glioneuronal tumor	Glioneuronal tumor	Neuronal and mixed neuronal-glial tumor	NA
+Other	gliosarcoma, nos, who grade iv	Gliosarcoma	Gliosarcoma	NA
+Other	hamartomatous lesion	Hamartoma	Benign tumor	NA
+Other	hemangioma	Neoplasm	Neoplasm	NA
+Other	histiocytic disorder in keeping with juvenile xanthogranuloma (jxg) with bcor c.1005dupc	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor	histiocytic disorder in keeping with juvenile xanthogranuloma (jxg) with bcor c.1005dupc
+Other	histiocytic neoplasm with braf v600e mutation	Histiocytic tumor	Histiocytic tumor	histiocytic neoplasm with braf v600e mutation
+Other	hypophyseal stalk thickening	NA	NA	NA
+Other	igg4 pseudotumor inflammatory disorder	NA	NA	NA
+Other	inflammatory lesion	NA	NA	NA
+Other	ini-1 negative tumor cells surrounded by reactive astrocytes most c/w metastatic malignant rhabdoid tumor	NA	NA	NA
+Other	lipoblastoma	Lipoblastoma	Benign tumor	NA
+Other	lipoma	Lipoma	Benign tumor	NA
+Other	low-grade pineal parenchymal tumor, most consistent with pineocytoma; no significant mutation found, grade i	Low-grade pineal parenchymal tumor	Low-grade pineal parenchymal tumor	NA
+Other	malignant tumor c/w metastatic wilms tumor	Wilms Tumor	Wilms Tumor	NA
+Other	medullooepithelioma	Medulloepithelioma	Medullooepithelioma	NA
+Metastatic secondary tumors	metastatic neuroblastoma	Neuroblastoma	Embryonal tumor	NA
+Metastatic secondary tumors;Other	metastatic wilms tumor	Wilms Tumor	Wilms Tumor	NA
+Thrombocytopenia	NA	NA	Benign tumor	NA
+Atypical Vascular Lesion	NA	NA	Benign tumor	NA
+Neutropenia	NA	NA	Benign tumor	NA
+Aplastic Anemia	NA	NA	Benign tumor	NA
+Non-Cancer Diagnosis	NA	NA	Benign tumor	NA
+Hypocellular Bone Marrow	NA	NA	Benign tumor	NA
+Adrenal Mass	NA	NA	Benign tumor	NA
+Nodular Fasciitis	NA	Neoplasm	Benign tumor	NA
+Undifferentiated Malignant Neoplasm	NA	Neoplasm	Benign tumor	NA
+Benign Vascular Neoplasm	NA	Neoplasm	Benign tumor	NA
+Histiocytosis	NA	Histiocytosis	Histiocytic tumor	NA
+Other	necrotizing myelopathy	NA	NA	NA
+Other	osteoblastoma	Osteoblastoma	Benign tumor	NA
+Other	osteosarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	NA
+Other	osteosarcoma (recurrent/residual) with mutations in apc, tp53, pik3ca and brd4	Sarcoma	Mesenchymal non-meningothelial tumor	osteosarcoma (recurrent/residual) with mutations in apc, tp53, pik3ca and brd4
+Other	osteosarcoma, chondroblastic subtype, radiation-associated who grade iii	Sarcoma	Mesenchymal non-meningothelial tumor	osteosarcoma, chondroblastic subtype, radiation-associated who grade iii
+Other	portions of white matter with a few reactive astrocytes and rare cells with mild atypia	NA	NA	NA
+Other	prolactinoma	Prolactinoma	Benign tumor	NA
+Other	recurrent pxa with braf v600e mutation	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor	NA
+Other	residual ganglioneuroma (schwannian stroma dominant), maturing type	Ganglioneuroma	Ganglioneuroma	NA

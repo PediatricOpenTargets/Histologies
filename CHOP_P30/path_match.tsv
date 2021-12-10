@@ -1,0 +1,35 @@
+pathology_diagnosis	cancer_group	broad_histology
+Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy
+Acute Myeloid Leukemia	Acute Myeloid Leukemia	Hematologic malignancy
+Atypical Teratoid Rhabdoid Tumor (ATRT)	Atypical Teratoid Rhabdoid Tumor	Embryonal tumor
+Brainstem glioma- Diffuse intrinsic pontine glioma	Diffuse intrinsic pontine glioma	Diffuse astrocytic and oligodendroglial tumor
+Chordoma	Chordoma	Chordoma
+Choroid plexus carcinoma	Choroid plexus carcinoma	Choroid plexus tumor
+Choroid plexus papilloma	Choroid plexus papilloma	Benign tumor
+Craniopharyngioma	Craniopharyngioma	Tumors of sellar region
+Dysembryoplastic neuroepithelial tumor (DNET)	Dysembryoplastic neuroepithelial tumor	Neuronal and mixed neuronal-glial tumor
+Ependymoma	Ependymoma	Ependymal tumor
+Ewings Sarcoma	Ewing sarcoma	Mesenchymal non-meningothelial tumor
+Ganglioglioma	Ganglioglioma	Low-grade astrocytic tumor
+Ganglioneuroblastoma	Ganglioneuroblastoma	Embryonal tumor
+Germinoma	Germinoma	Germ cell tumor
+Germinoma;Teratoma	Germinoma;Teratoma	Germ cell tumor
+Glial-neuronal tumor NOS	Glial-neuronal tumor NOS	Neuronal and mixed neuronal-glial tumor
+Hemangioblastoma	Hemangioblastoma	Mesenchymal non-meningothelial tumor
+High-grade glioma/astrocytoma (WHO grade III/IV)	High-grade glioma/astrocytoma	Diffuse astrocytic and oligodendroglial tumor
+Langerhans Cell histiocytosis	Langerhans Cell histiocytosis	Histiocytic tumor
+Low-grade glioma/astrocytoma (WHO grade I/II)	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor
+Medulloblastoma	Medulloblastoma	Embryonal tumor
+Meningioma	Meningioma	Meningioma
+Neuroblastoma	Neuroblastoma	Embryonal tumor
+Neurocytoma	Neurocytoma	Neuronal and mixed neuronal-glial tumor
+Neurofibroma/Plexiform	Neurofibroma/Plexiform	Tumor of cranial and paraspinal nerves
+Oligodendroglioma	Oligodendroglioma	Diffuse astrocytic and oligodendroglial tumor
+Osteosarcoma	Osteosarcoma	Mesenchymal non-meningothelial tumor
+Pineoblastoma	Pineoblastoma	Tumor of pineal region
+Rhabdomyosarcoma	Rhabdomyosarcoma	Mesenchymal non-meningothelial tumor
+Sarcoma	Sarcoma	Mesenchymal non-meningothelial tumor
+Schwannoma	Schwannoma	Tumor of cranial and paraspinal nerves
+Subependymal Giant Cell Astrocytoma (SEGA)	Subependymal Giant Cell Astrocytoma	Low-grade astrocytic tumor
+Supratentorial or Spinal Cord PNET	High-grade glioma/astrocytoma	Diffuse astrocytic and oligodendroglial tumor
+Teratoma	Teratoma	Germ cell tumor

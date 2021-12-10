@@ -1,0 +1,110 @@
+pathology_diagnosis	pathology_diagnosis_diff	cancer_group	broad_histology	molecular_subtype
+Abdominal Inflammatory Myofibroblastic Tumor	Abdominal Inflammatory Myofibroblastic Tumor	Inflammatory Myofibroblastic Tumor	Inflammatory myofibroblastic tumor	Abdominal Inflammatory Myofibroblastic Tumor
+Acute Lymphoblastic Leukemia in Remission	Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	NA
+Acute Megakaryoblastic Leukemia	Acute Megakaryoblastic Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	NA
+Acute Myeloid Leukemia in Remission	Acute Myeloid Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	NA
+Acute Myeloid Leukemia with Gene Mutations	Acute Myeloid Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	Acute Myeloid Leukemia with Gene Mutations
+Adenocarcinoma	Adenocarcinoma	Adenocarcinoma	Carcinoma	NA
+Adrenal Gland Neuroblastoma	Neuroblastoma	Neuroblastoma	Embryonal tumor	Adrenal Gland Neuroblastoma
+Alveolar Rhabdomyosarcoma	Alveolar Rhabdomyosarcoma	Rhabdomyosarcoma	Mesenchymal non-meningothelial tumor	Alveolar Rhabdomyosarcoma
+Anaplastic Large Cell Lymphoma	Anaplastic Large Cell Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	Anaplastic Large Cell Lymphoma
+Angiomatoid Fibrous Histiocytoma	Angiomatoid Fibrous Histiocytoma	Histiocytoma	Histiocytoma	Angiomatoid Fibrous Histiocytoma
+Angiosarcoma	Angiosarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	NA
+Atypical Teratoid/Rhabdoid Tumor	Atypical Teratoid Rhabdoid Tumor (ATRT)	Atypical Teratoid Rhabdoid Tumor	Embryonal tumor	NA
+B Acute Lymphoblastic Leukemia	B Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	B Acute Lymphoblastic Leukemia
+B Lymphoblastic Leukemia/Lymphoma	B Lymphoblastic Leukemia/Lymphoma	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	B Lymphoblastic Leukemia/Lymphoma
+B Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy	B Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	B Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy
+B Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1	B Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	B Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+B Lymphoblastic Leukemia/Lymphoma, Not Otherwise Specified	B Lymphoblastic Leukemia/Lymphoma, Not Otherwise Specified	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	B Lymphoblastic Leukemia/Lymphoma, Not Otherwise Specified
+B Lymphoblastic Lymphoma	B Lymphoblastic Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	B Lymphoblastic Lymphoma
+B-Lymphoblastic Leukemia/Lymphoma with Intrachromosomal Amplification of Chromosome 21	B Lymphoblastic Leukemia/Lymphoma with Intrachromosomal Amplification of Chromosome 21	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	B Lymphoblastic Leukemia/Lymphoma with Intrachromosomal Amplification of Chromosome 21
+Bone Marrow Cellularity, CTCAE	Bone Marrow Cellularity, CTCAE	Bone Marrow Disease	Bone Marrow Disease	NA
+Bone Marrow Failure	Bone Marrow Failure	Bone Marrow Disease	Bone Marrow Disease	NA
+Burkitt Leukemia	Burkitt Leukemia	Leukemia	Hematologic malignancy	NA
+Burkitt Lymphoma	Burkitt Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	NA
+Burkitt-Like Lymphoma with 11q Aberration	Burkitt-Like Lymphoma with 11q Aberration	Non-Hodgkins Lymphoma	Hematologic malignancy	Burkitt-Like Lymphoma with 11q Aberration
+Cavernoma;Ependymoma	Cavernoma;Ependymoma	Cavernoma;Ependymoma	Cavernoma;Ependymoma	NA
+Chronic Myeloid Leukemia Pathway	Chronic Myeloid Leukemia Pathway	Chronic Myelogenous Leukemia	Hematologic malignancy	NA
+Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive	Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive	Chronic Myelogenous Leukemia	Hematologic malignancy	Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+CIC-DUX4 Sarcoma	CIC-DUX4 Sarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	CIC-DUX4 Sarcoma
+Conventional Osteosarcoma	Osteosarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	Osteosarcoma
+Desmoid Fibromatosis	Desmoid Fibromatosis	Fibromatosis	Connective tissue neoplasm	Desmoid-type Fibromatosis
+Diffuse Midline Glioma, H3 K27M-Mutant	Diffuse Midline Glioma, H3 K27M-Mutant	High-grade glioma/astrocytoma	Diffuse astrocytic and oligodendroglial tumor	DMG, H3 K27M
+Dysembryoplastic Neuroepithelial Tumor	Dysembryoplastic Neuroepithelial Tumor	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor	Dysembryoplastic Neuroepithelial Tumor
+Dysgerminoma	Dysgerminoma	Germ Cell Tumor	Germ Cell Tumor	Dysgerminoma
+Dysplasia/Gliosis;Low-grade glioma/astrocytoma (WHO grade I/II)	Dysplasia/Gliosis;Low-grade glioma/astrocytoma (WHO grade I/II)	Dysplasia/Gliosis;Low-grade glioma/astrocytoma (WHO grade I/II)	Dysplasia/Gliosis;Low-grade glioma/astrocytoma (WHO grade I/II)	NA
+Embryonal Rhabdomyosarcoma	Embryonal Rhabdomyosarcoma	Rhabdomyosarcoma	Rhabdomyosarcoma	Embryonal Rhabdomyosarcoma
+Ewing Sarcoma	Ewings Sarcoma	Ewing sarcoma	Mesenchymal non-meningothelial tumor	NA
+Follicular Variant Thyroid Gland Papillary Carcinoma	Follicular Variant Thyroid Gland Papillary Carcinoma	Adenocarcinoma	Carcinoma	Follicular Variant Thyroid Gland Papillary Carcinoma
+Ganglioglioma;Other	Ganglioglioma;Other	Ganglioglioma	Ganglioglioma	NA
+Germ Cell Tumor	Germ Cell Tumor	Germ Cell Tumor	Germ Cell Tumor	NA
+Germinoma;Other;Teratoma	Germinoma;Other;Teratoma	Germinoma;Teratoma	Germinoma;Teratoma	NA
+Glioblastoma Multiforme Pathway	Glioblastoma Multiforme Pathway	High-grade glioma/astrocytoma	Diffuse astrocytic and oligodendroglial tumor	NA
+Hamartoma	Hamartoma	Hamartoma	Benign tumor	NA
+Hepatoblastoma	Hepatoblastoma	Adenocarcinoma	Carcinoma	NA
+Hepatoblastoma with Combined Fetal and Embryonal Epithelial Differentiation	Hepatoblastoma with Combined Fetal and Embryonal Epithelial Differentiation	Adenocarcinoma	Carcinoma	Hepatoblastoma with Combined Fetal and Embryonal Epithelial Differentiation
+Hepatocellular Carcinoma	Hepatocellular Carcinoma	Adenocarcinoma	Carcinoma	NA
+High Grade Sarcoma	High Grade Sarcoma	Sarcoma	Carcinoma	High Grade Sarcoma
+High Risk Neuroblastoma	High Risk Neuroblastoma	Neuroblastoma	Embryonal tumor	High Risk Neuroblastoma
+Hodgkin's Disease, Nodular Sclerosis, Lymphocyte Predominance	Hodgkin's Disease, Nodular Sclerosis, Lymphocyte Predominance	Hodgkins Lymphoma	Hematologic malignancy	Hodgkin's Disease, Nodular Sclerosis, Lymphocyte Predominance
+Immature Ovarian Teratoma	Immature Ovarian Teratoma	Teratoma	Germ cell tumor	Immature Ovarian Teratoma
+Infantile Fibrosarcoma	Infantile Fibrosarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	Infantile Fibrosarcoma
+Inflammatory Myofibroblastic Tumor	Inflammatory Myofibroblastic Tumor	Inflammatory Myofibroblastic Tumor	Inflammatory myofibroblastic tumor	NA
+Intrahepatic Cholangiocarcinoma	Intrahepatic Cholangiocarcinoma	Adenocarcinoma	Carcinoma	Intrahepatic Cholangiocarcinoma
+Juvenile Xanthogranuloma	Juvenile Xanthogranuloma	Juvenile xanthogranuloma	Histiocytic tumor	NA
+Klippel-Trenaunay-Weber Syndrome	Klippel-Trenaunay-Weber Syndrome	Klippel-Trenaunay-Weber Syndrome	Genetic disease	NA
+Langerhans Cell Histiocytosis	Langerhans Cell histiocytosis	Langerhans Cell histiocytosis	Histiocytic tumor	NA
+Low Grade Glioma	Low-grade glioma/astrocytoma (WHO grade I/II)	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor	NA
+Lymphadenitis	Lymphadenitis	Lymphadenitis	Lymph node disease	NA
+Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	Malignant peripheral nerve sheath tumor	Malignant peripheral nerve sheath tumor	NA
+Malignant peripheral nerve sheath tumor (MPNST);Neurofibroma/Plexiform	Malignant peripheral nerve sheath tumor (MPNST);Neurofibroma/Plexiform	Malignant peripheral nerve sheath tumor (MPNST);Neurofibroma/Plexiform	Malignant peripheral nerve sheath tumor (MPNST);Neurofibroma/Plexiform	NA
+Mature B-Cell Non-Hodgkin Lymphoma	Mature B-Cell Non-Hodgkin Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	Mature B-Cell Non-Hodgkin Lymphoma
+Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+Medulloepithelioma	Medulloepithelioma	Medulloepithelioma	Embryonal neoplasm	NA
+Metastatic Melanoma	Metastatic Melanoma	Melanoma	Melanoma	NA
+Metastatic secondary tumors;Sarcoma	Metastatic secondary tumors;Sarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	NA
+Metastatic Thyroid Gland Papillary Carcinoma	Metastatic Thyroid Gland Papillary Carcinoma	Thyroid carcinoma	Carcinoma	Metastatic Thyroid Gland Papillary Carcinoma
+Mixed Germ Cell Tumor	Mixed Germ Cell Tumor	Germ Cell Tumor	Germ Cell Tumor	Mixed Germ Cell Tumor
+Mixed Phenotype Acute Leukemia, B/Myeloid, Not Otherwise Specified	Mixed Phenotype Acute Leukemia, B/Myeloid, Not Otherwise Specified	Acute Myeloid Leukemia	Hematologic malignancy	Mixed Phenotype Acute Leukemia, B/Myeloid, Not Otherwise Specified
+Mixed Phenotype Acute Leukemia, T/Myeloid, Not Otherwise Specified	Mixed Phenotype Acute Leukemia, T/Myeloid, Not Otherwise Specified	Acute Myeloid Leukemia	Hematologic malignancy	Mixed Phenotype Acute Leukemia, T/Myeloid, Not Otherwise Specified
+Myelodysplastic Syndrome	Myelodysplastic Syndrome	Myelodysplastic Syndrome	Hematologic malignancy	NA
+Myeloid Neoplasm	Myeloid Neoplasm	Myeloid Neoplasm	Hematologic malignancy	NA
+Neuroblastic Tumor	Neuroblastic Tumor	Neuroblastic Tumor	Neuroblastic Tumor	NA
+Neuroblastoma of the Adrenal Gland and Sympathetic Nervous System	Neuroblastoma of the Adrenal Gland and Sympathetic Nervous System	Neuroblastoma	Embryonal tumor	Neuroblastoma of the Adrenal Gland and Sympathetic Nervous System
+Neuroendocrine Carcinoma	Neuroendocrine Carcinoma	Neuroendocrine Carcinoma	Carcinoma	Neuroendocrine Carcinoma
+Noonan Syndrome	Noonan Syndrome	Noonan Syndrome	Genetic disease	NA
+Ovarian Sertoli-Leydig Cell Tumor	Ovarian Sertoli-Leydig Cell Tumor	Ovarian Sertoli-Leydig Cell Tumor	Ovarian Neoplasm	Ovarian Sertoli-Leydig Cell Tumor
+Paraganglioma	Paraganglioma	Paraganglioma	Paraganglioma	NA
+Pilocytic Astrocytoma	Pilocytic Astrocytoma	Low-grade glioma/astrocytoma	Low-grade astrocytic tumor	NA
+Pleuropulmonary Blastoma	Pleuropulmonary Blastoma	Pleuropulmonary Blastoma	Pleuropulmonary Blastoma	NA
+Plexiform Neurofibroma	Neurofibroma/Plexiform	Neurofibroma/Plexiform	Tumor of cranial and paraspinal nerves	NA
+Pre-B Acute Lymphoblastic Leukemia	Pre-B Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	Pre-B Acute Lymphoblastic Leukemia
+Primary Myelofibrosis	Primary Myelofibrosis	Myeloid Neoplasm	Hematologic malignancy	NA
+Recurrent Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	NA
+Recurrent Acute Myeloid Leukemia	Acute Myeloid Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	NA
+Recurrent B Lymphoblastic Lymphoma	B Lymphoblastic Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	NA
+Recurrent Neuroblastoma	Neuroblastoma	Neuroblastoma	Embryonal tumor	NA
+Recurrent Primary Mediastinal (Thymic) Large B-Cell Lymphoma	Primary Mediastinal (Thymic) Large B-Cell Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	Recurrent Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+Retinal Neuroblastoma	Retinal Neuroblastoma	Neuroblastoma	Embryonal tumor	Retinal Neuroblastoma
+Retinoblastoma	Retinoblastoma	Retinoblastoma	Retinoblastoma	NA
+Sacrococcygeal Teratoma	Sacrococcygeal Teratoma	Teratoma	Germ cell tumor	Sacrococcygeal Teratoma
+Sclerosing Rhabdomyosarcoma	Sclerosing Rhabdomyosarcoma	Rhabdomyosarcoma	Rhabdomyosarcoma	Sclerosing Rhabdomyosarcoma
+Shwachman-Diamond Syndrome	Shwachman-Diamond Syndrome	Shwachman-Diamond Syndrome	Genetic disease	Shwachman-Diamond Syndrome
+Sinonasal Adenocarcinoma	Sinonasal Adenocarcinoma	Adenocarcinoma	Carcinoma	Sinonasal Adenocarcinoma
+Sinus Histiocytosis with Massive Lymphadenopathy	Sinus Histiocytosis with Massive Lymphadenopathy	Lymphatic system disease	Lymphatic system disease	Sinus Histiocytosis with Massive Lymphadenopathy
+Solid Pseudopapillary Neoplasm of the Pancreas	Solid Pseudopapillary Neoplasm of the Pancreas	Pancreatic neoplasm	Pancreatic neoplasm	Solid Pseudopapillary Neoplasm of the Pancreas
+Spindle Cell Neoplasm	Spindle Cell Neoplasm	Spindle cell neoplasm	Spindle Cell Neoplasm	NA
+Spinocerebellar Ataxia Type 7	Spinocerebellar Ataxia Type 7	Spinocerebellar Ataxia Type 7	Genetic disease	NA
+Stage IV High Grade Burkitt-Like Lymphoma	Stage IV High Grade Burkitt-Like Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	NA
+T Acute Lymphoblastic Leukemia	T Acute Lymphoblastic Leukemia	Acute Lymphoblastic Leukemia	Hematologic malignancy	T Acute Lymphoblastic Leukemia
+T Lymphoblastic Leukemia/Lymphoma	T Lymphoblastic Leukemia/Lymphoma	Precursor Lymphoblastic Lymphoma/Leukemia	Hematologic malignancy	T Lymphoblastic Leukemia/Lymphoma
+T Lymphoblastic Lymphoma	T Lymphoblastic Lymphoma	Non-Hodgkins Lymphoma	Hematologic malignancy	T Lymphoblastic Lymphoma
+Therapy-Related Acute Myeloid Leukemia	Therapy-Related Acute Myeloid Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	Therapy-Related Acute Myeloid Leukemia
+Thyroid Gland Follicular Carcinoma	Thyroid Gland Follicular Carcinoma	Thyroid carcinoma	Carcinoma	Thyroid Gland Follicular Carcinoma
+Thyroid Gland Papillary Carcinoma	Thyroid Gland Papillary Carcinoma	Thyroid carcinoma	Carcinoma	Thyroid Gland Papillary Carcinoma
+Type II Pleuropulmonary Blastoma	Type II Pleuropulmonary Blastoma	Type II Pleuropulmonary Blastoma	Respirotary system neoplasm	NA
+Typical Acute Promyelocytic Leukemia	Typical Acute Promyelocytic Leukemia	Acute Myeloid Leukemia	Hematologic malignancy	NA
+Undifferentiated (Embryonal) Sarcoma	Undifferentiated (Embryonal) Sarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	Undifferentiated (Embryonal) Sarcoma
+Undifferentiated Round Cell Sarcoma	Undifferentiated Round Cell Sarcoma	Sarcoma	Mesenchymal non-meningothelial tumor	Undifferentiated Round Cell Sarcoma
+Vascular Malformation	Vascular Malformation	Vascular disease	Vascular disease	NA
+Wilms Tumor	Wilms Tumor	Wilms Tumor	Wilms Tumor	NA
